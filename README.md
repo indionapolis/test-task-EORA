@@ -6,6 +6,7 @@ tg: @indionapolis
 
 this repository contains implementation of test task on head pose estimation on video for summer internship ata EORA.
 
+![](src/img.png)
 ## Getting Started
 
 if you want to run this project locally follow instructions in Dockerfile
